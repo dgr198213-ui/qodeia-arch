@@ -32,6 +32,7 @@ GITHUB_REPO=qodeia-arch
 
 ### APIs de LLM
 ```
+OPENAI_API_KEY=<tu_openai_api_key>
 GROQ_API_KEY=<tu_groq_api_key>
 DEEPSEEK_API_KEY=<tu_deepseek_api_key>
 GEMINI_API_KEY=<tu_gemini_api_key>
@@ -49,7 +50,7 @@ VERCEL_PROJECT_ID=prj_He7Xk8zyji0mdREOS2IB20H7uKUH
 ```
 NEXT_PUBLIC_AGENT_URL=https://mi-agente-qode-ia.vercel.app
 NEXT_PUBLIC_IDE_URL=https://plataforma-qd.vercel.app
-NEXT_PUBLIC_WEB_URL=https://web-qode-ia.vercel.app
+NEXT_PUBLIC_WEB_URL=https://web-qodeia.vercel.app
 ```
 
 ## Seguridad
